@@ -1,0 +1,6 @@
+tools:
+  maven 3.5.4
+flows:
+  default:
+  - echo "Hello World"
+  - mvn clean install  
